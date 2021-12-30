@@ -4,12 +4,12 @@
 #### All projects in this repository are personal, and completely unrelated to my professional work.
 
 ### I'm currently learning more about:
- - New Android tech, specifically flow & compose.
- - React
- - Ethereum blockchain development using Solidity, hardhat, ethers, and chai.
+ - New **Android** tech, specifically **flow & compose**.
+ - **React**
+ - **Ethereum** blockchain development using **Solidity, hardhat, ethers, and chai**.
 
 ## Acknowledgment
-I ask that you please acknowledge my work by adding the following lines at the top of copied (or largely inspired) files:
+I ask that you please acknowledge my work by adding the following lines (or something similar) at the top files with significant amounts of copied or derived code:
 
 ```bash
 /**************************************************************
@@ -24,6 +24,6 @@ If you copy something small (EG. system method usage) no need for credit.
 ***
 
 ## License
-All public code is provided **OPEN SOURCE** under the following **MIT** license:
+All public code is provided **OPEN SOURCE** under the following [**MIT LICENSE**](https://github.com/broliver12/broliver12/blob/main/LICENSE.txt)
 
-[Broliver12's License](https://choosealicense.com/licenses/mit/)
+
