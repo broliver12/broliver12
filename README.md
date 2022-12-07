@@ -1,29 +1,12 @@
-## :dragon_face: ________________ Hi, I’m Oli ________________ :dragon_face:
+## Hello, my name's Oliver
 
-#### I'm a professional android developer, this is my portfolio.
-#### All projects in this repository are personal, and completely unrelated to my professional work.
+#### This is my personal github. All repositories are personal hobby projects, and are completely unrelated to my professional work.
 
-### I'm currently learning more about:
- - New **Android** tech, specifically **flow & compose**.
- - **React**
- - **Ethereum** blockchain development using **Solidity, hardhat, ethers, and chai**.
+#### Public projects **will** (working on it!) have a README.md file that explains their purpose and usage
 
-## Acknowledgment
-I ask that you please acknowledge my work by adding the following lines (or something similar) at the top files with significant amounts of copied or derived code:
+## Public Repository License
+- All public code is provided **OPEN SOURCE** under the following [**MIT LICENSE**](https://github.com/broliver12/broliver12/blob/main/LICENSE.txt)
+- Use your best judgement on whether credit for copied code is necessary
 
-```bash
-/**************************************************************
- ***  Originally written by https://github.com/broliver12/  ***
- **************************************************************/
-```
- 
-If you copy something small (EG. system method usage) no need for credit.
-
-### Thanks, and as always, Happy Hacking!
-
-***
-
-## License
-All public code is provided **OPEN SOURCE** under the following [**MIT LICENSE**](https://github.com/broliver12/broliver12/blob/main/LICENSE.txt)
-
+### Happy Hacking!
 
